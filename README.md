@@ -10,3 +10,5 @@ autoshell.py 可以用pyinstall打包成exe
 serverX.py 放在服务器上将ip改为服务器ip
 ##[博客地址]
 http://az0ne.lofter.com/
+##[免杀效果]
+![MIANSHA](/miansha.JPG)
