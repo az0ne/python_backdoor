@@ -1,4 +1,4 @@
-![SERVER](/images/server.png)
+![SERVER](/server.png)
 ## [About]
 一个DIY定制的简单python马，有上传下载和执行CMD功能,还有自动搜索某盘的word文档功能，适合偷取文件
 ##[需要模块]
